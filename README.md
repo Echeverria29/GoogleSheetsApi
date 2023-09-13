@@ -1,5 +1,5 @@
 # GoogleSheetsApi
-Este es un mini proyecto en Google sheets, donde se desarrolla una API con java script para compartir datos de clientes desde una hoja de cálculo.
+Este es un mini proyecto en Google sheets, donde se desarrolla una API con APP Script para compartir datos de clientes desde una hoja de cálculo.
 Enlace para ver el archivo compartido directamente con su desarrollo(está con permisos).
 https://docs.google.com/spreadsheets/d/16CfyOdl5gwRt8PPobA47MkKDrtNJ43RdwQ0yH1A0EGM/edit#gid=0
 
