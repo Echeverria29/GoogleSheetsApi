@@ -13,7 +13,7 @@ https://docs.google.com/spreadsheets/d/16CfyOdl5gwRt8PPobA47MkKDrtNJ43RdwQ0yH1A0
 [![se-muestra-en-postman-correctamente-el-script.png](https://i.postimg.cc/T2WkT5pQ/se-muestra-en-postman-correctamente-el-script.png)](https://postimg.cc/w3g5Vv5s)
 
 ### Id generada para su consumo
-https://script.google.com/macros/s/AKfycbxKXthgnvSz2qEIkBpAaOfzNw1OX97aMY8PrWZ8w19sSp6Cg1xzOyyurqU_iQwI2p4VjQ/exec?action=getUsers
+
 
 ### Comenzando 🚀
 
