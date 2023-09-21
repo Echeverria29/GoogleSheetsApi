@@ -4,16 +4,16 @@ Enlace para ver el archivo compartido directamente con su desarrollo(está con p
 https://docs.google.com/spreadsheets/d/16CfyOdl5gwRt8PPobA47MkKDrtNJ43RdwQ0yH1A0EGM/edit#gid=0
 
 ### Hoja de cálculo con los datos
-[![excel-userinfo.png](https://i.postimg.cc/pLgbLMPn/excel-userinfo.png)](https://postimg.cc/Mnbr94MW)
+[![1.png](https://i.postimg.cc/L41f1mrh/1.png)](https://postimg.cc/BtJXWfZG)
 
 ### Desarrollo de API en App Script
-[![Script-desarrollo-api.png](https://i.postimg.cc/DfDcDv6s/Script-desarrollo-api.png)](https://postimg.cc/s1YSGRtD)
+[![2.png](https://i.postimg.cc/gJ0sW1J8/2.png)](https://postimg.cc/2qPhdcnS)
 
 ### Realizando petición get a través de postman
-[![se-muestra-en-postman-correctamente-el-script.png](https://i.postimg.cc/T2WkT5pQ/se-muestra-en-postman-correctamente-el-script.png)](https://postimg.cc/w3g5Vv5s)
+[![3.png](https://i.postimg.cc/N02J93Yt/3.png)](https://postimg.cc/KKFrCsRp)
 
 ### Id generada para su consumo
-
+https://script.google.com/macros/s/AKfycbyBJ8dd04bWOrXFygWqmIAEEgs4vWD2CtjISGP2spcMIB6mdZc8NGIm04q22RBIoNOxhw/exec?action=getUsers
 
 ### Comenzando 🚀
 
